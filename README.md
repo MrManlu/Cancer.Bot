@@ -1,8 +1,6 @@
-# Cancer.Bot
+![# Cancer.Bot - Clasificación de imágenes histológicas para la detección de cáncer de mama](https://raw.githubusercontent.com/MrManlu/Cancer.Bot/master/IMG/CancerBot.png)
 
-_____________
-
-Clasificación de imágenes histológicas para la detección de cáncer de mama
+![alt text](https://raw.githubusercontent.com/MrManlu/Cancer.Bot/master/IMG/CancerBot.png "Logo Title Text 1")
 
 ## Sobre el proyecto
 Este repositorio contiene el proyecto de fin de curso realizado durante las clases de [Saturdays.AI][SatAI] realizadas en Sevilla durante el curso 2019. Otros proyectos presentados pueden encontrarse en [su repositorio de GitHub][SAGit]
